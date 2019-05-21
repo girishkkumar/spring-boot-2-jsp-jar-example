@@ -176,8 +176,23 @@ public class StaticResourceConfigurer implements LifecycleListener {
                         └── BootJspApplicationTests.java
 ```
 
-Use the codebase for your references. :)
+### Run the application as below:
+```
+$ mvn clean package
 
+$ java -jar target/bootjsp-0.0.1-SNAPSHOT.jar
+```
+
+Once the application starts open the below url in the browser
+`http://localhost:8080/login`
+
+###### Enter the credentials as below 
+```
+username: administrator
+password: admin
+```
+
+:+1: :+1: :+1: :metal: :metal: :metal:
 
 ### References
 https://dzone.com/articles/spring-boot-with-jsps-in-executable-jars-1
