@@ -184,7 +184,9 @@ $ java -jar target/bootjsp-0.0.1-SNAPSHOT.jar
 ```
 
 Once the application starts open the below url in the browser
-`http://localhost:8080/login`
+
+http://localhost:8080/login
+
 
 ###### Enter the credentials as below 
 ```
